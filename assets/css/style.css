@@ -271,6 +271,13 @@ text-align: right;
          padding: 0;
      }
 
+     #times > div {
+         width: 100%;
+         clear: both;
+         height: 150px;
+         height: 0;
+     }
+
      hr {
          display: none;
      }
@@ -311,6 +318,8 @@ text-align: right;
      text-align: center;
      padding: 0 20px;
  }
+
+ #
 
 
  }
